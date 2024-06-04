@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Csharp\Subtracao\bin\Debug\net8.0\Subtracao.exe
+C:\Users\Aluno\Documents\Csharp\Subtracao\bin\Debug\net8.0\Subtracao.deps.json
+C:\Users\Aluno\Documents\Csharp\Subtracao\bin\Debug\net8.0\Subtracao.runtimeconfig.json
+C:\Users\Aluno\Documents\Csharp\Subtracao\bin\Debug\net8.0\Subtracao.dll
+C:\Users\Aluno\Documents\Csharp\Subtracao\bin\Debug\net8.0\Subtracao.pdb
+C:\Users\Aluno\Documents\Csharp\Subtracao\obj\Debug\net8.0\Subtracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Csharp\Subtracao\obj\Debug\net8.0\Subtracao.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Csharp\Subtracao\obj\Debug\net8.0\Subtracao.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Csharp\Subtracao\obj\Debug\net8.0\Subtracao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Csharp\Subtracao\obj\Debug\net8.0\Subtracao.dll
+C:\Users\Aluno\Documents\Csharp\Subtracao\obj\Debug\net8.0\refint\Subtracao.dll
+C:\Users\Aluno\Documents\Csharp\Subtracao\obj\Debug\net8.0\Subtracao.pdb
+C:\Users\Aluno\Documents\Csharp\Subtracao\obj\Debug\net8.0\Subtracao.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Csharp\Subtracao\obj\Debug\net8.0\ref\Subtracao.dll
