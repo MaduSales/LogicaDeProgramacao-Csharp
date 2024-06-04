@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Csharp\Multiplicacao\bin\Debug\net8.0\Multiplicacao.exe
+C:\Users\Aluno\Documents\Csharp\Multiplicacao\bin\Debug\net8.0\Multiplicacao.deps.json
+C:\Users\Aluno\Documents\Csharp\Multiplicacao\bin\Debug\net8.0\Multiplicacao.runtimeconfig.json
+C:\Users\Aluno\Documents\Csharp\Multiplicacao\bin\Debug\net8.0\Multiplicacao.dll
+C:\Users\Aluno\Documents\Csharp\Multiplicacao\bin\Debug\net8.0\Multiplicacao.pdb
+C:\Users\Aluno\Documents\Csharp\Multiplicacao\obj\Debug\net8.0\Multiplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Csharp\Multiplicacao\obj\Debug\net8.0\Multiplicacao.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Csharp\Multiplicacao\obj\Debug\net8.0\Multiplicacao.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Csharp\Multiplicacao\obj\Debug\net8.0\Multiplicacao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Csharp\Multiplicacao\obj\Debug\net8.0\Multiplicacao.dll
+C:\Users\Aluno\Documents\Csharp\Multiplicacao\obj\Debug\net8.0\refint\Multiplicacao.dll
+C:\Users\Aluno\Documents\Csharp\Multiplicacao\obj\Debug\net8.0\Multiplicacao.pdb
+C:\Users\Aluno\Documents\Csharp\Multiplicacao\obj\Debug\net8.0\Multiplicacao.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Csharp\Multiplicacao\obj\Debug\net8.0\ref\Multiplicacao.dll
