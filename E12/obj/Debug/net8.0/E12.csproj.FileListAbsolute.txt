@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\Csharp\E12\bin\Debug\net8.0\E12.exe
+C:\Users\Aluno\Documents\Csharp\E12\bin\Debug\net8.0\E12.deps.json
+C:\Users\Aluno\Documents\Csharp\E12\bin\Debug\net8.0\E12.runtimeconfig.json
+C:\Users\Aluno\Documents\Csharp\E12\bin\Debug\net8.0\E12.dll
+C:\Users\Aluno\Documents\Csharp\E12\bin\Debug\net8.0\E12.pdb
+C:\Users\Aluno\Documents\Csharp\E12\obj\Debug\net8.0\E12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Csharp\E12\obj\Debug\net8.0\E12.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Csharp\E12\obj\Debug\net8.0\E12.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Csharp\E12\obj\Debug\net8.0\E12.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Csharp\E12\obj\Debug\net8.0\E12.dll
+C:\Users\Aluno\Documents\Csharp\E12\obj\Debug\net8.0\refint\E12.dll
+C:\Users\Aluno\Documents\Csharp\E12\obj\Debug\net8.0\E12.pdb
+C:\Users\Aluno\Documents\Csharp\E12\obj\Debug\net8.0\E12.genruntimeconfig.cache
+C:\Users\Aluno\Documents\Csharp\E12\obj\Debug\net8.0\ref\E12.dll
